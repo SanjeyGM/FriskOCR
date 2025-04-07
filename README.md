@@ -58,5 +58,6 @@ Python will be automatically installed.
 | `__init__.py`        | Makes project importable as a package (for devs) |
 
 ---
+🤝 Contributing
 
 
