@@ -2,17 +2,18 @@
 
 ![FriskOCR Logo](link_to_logo_if_any)
 
-**FriskOCR** is an AI-powered OCR (Optical Character Recognition) tool designed to extract text from images, comics, scanned documents, and manga pages. Built using state-of-the-art deep learning libraries like EasyOCR and Manga-OCR, it offers robust multilingual support, including Japanese, with an optional GUI for ease of use.
+**FriskOCR** is a Python-powered OCR (Optical Character Recognition) tool that extracts text from manga, screenshots, and documents using AI. It's optimized for manga-style vertical text and Japanese scripts using EasyOCR and Manga-OCR.
+
+> ✅ Installer available — Just download `FriskOCR.exe` from the [Releases](https://github.com/yourusername/FriskOCR/releases) section and run it directly!
 
 ---
 
 ## 📋 Table of Contents
 
 - [Key Features](#-key-features)
-- [Requirements](#️-requirements)
-- [Installation Guide](#-installation-guide)
+- [Installer](#-installer)
+- [Project Structure](#-project-structure)
 - [Usage](#-usage)
-- [Requirements File](#-requirements-file)
 - [Troubleshooting](#-troubleshooting)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -21,39 +22,47 @@
 
 ## 🚀 Key Features
 
-- 🧠 **High-Precision OCR**: Extract text from complex image layouts using EasyOCR and Manga-OCR.
-- 🌐 **Multilingual Support**: Recognize over 80 languages including Japanese, English, Korean, and more.
-- 📚 **Manga/Comic OCR Mode**: Special handling for kanji-rich comic panels and light novels.
-- 🖥 **Clipboard OCR**: Detect and extract text directly from clipboard images using hotkeys.
-- 🧰 **Simple Setup**: No Docker needed, everything runs locally with Python.
-- 🖼 **GUI Interface**: PyQt5-based interface for user-friendly interaction.
+- 🧠 **Advanced OCR** using EasyOCR + Manga-OCR
+- 🌐 **Multilingual Support**: Handles Japanese, English, Korean, Arabic, etc.
+- 📚 **Optimized for Manga**: Vertical/kanji-heavy text support
+- 📋 **Clipboard Integration**: OCR from screenshots
+- 🖥️ **Optional GUI** via PyQt5
+- ⚡ **Portable**: Just run the EXE (no setup needed)
 
 ---
 
-## ⚙️ Requirements
+## 📦 Installer
 
-**System**
-- Python 3.10
-- 8GB RAM (minimum)
-- 3GB free storage
-- Internet connection (for model downloads)
+Download the latest version of FriskOCR from the [Releases](https://github.com/yourusername/FriskOCR/releases) page.  
+No Python or installation required.
 
 ---
 
-## 📥 Installation Guide
+## 🗂 Project Structure
 
-### 1. Clone the Repository
+| File/Folder          | Description |
+|----------------------|-------------|
+| `friskocr/`          | Core OCR logic and helper scripts |
+| `logs/`              | Contains logs of OCR activity and errors |
+| `model_storage/`     | Stores downloaded OCR models (EasyOCR & Manga-OCR) |
+| `Output/`            | All extracted text and processed outputs saved here |
+| `FriskOCR.exe`       | Precompiled installer (runs the app) |
+| `FriskOCR.spec`      | PyInstaller spec file for building the `.exe` |
+| `friskocr_launcher`  | Launcher metadata or documentation |
+| `launcher.py`        | The main launch script for GUI/CLI OCR |
+| `main.py`            | Entrypoint script integrating OCR and input handling |
+| `ocr_config.json`    | User config file for model language, output format, etc. |
+| `requirements.txt`   | Lists all Python dependencies (for developers) |
+| `setup.iss`          | Installer script (Inno Setup) used to generate `FriskOCR.exe` |
+| `pyarmor/` & related | Licensing and obfuscation configs (optional) |
+| `__init__.py`        | Makes project importable as a package (for devs) |
 
-```bash
-git clone https://github.com/FriskOCR/friskocr.git
-cd friskocr
-```
-### 2. Create a Virtual Environment
-```bash
-python -m venv friskocr
-source friskocr/bin/activate    # On Windows: venv\Scripts\activate
-```
-### 3. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
+---
+
+## 🎯 Usage (for Developers)
+
+If you're not using the `.exe` and want to run manually via Python:
+
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
