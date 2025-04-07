@@ -1,6 +1,6 @@
 # 📄 FriskOCR 🎯
 
-![FriskOCR Logo](link_to_logo_if_any)
+![FriskOCR Logo]([link_to_logo_if_any](https://github.com/SanjeyGM/FriskOCR/blob/main/scripts/assets/icon.ico))
 
 **FriskOCR** is a Python-powered OCR (Optical Character Recognition) tool that extracts text from manga, screenshots, and documents using AI. It's optimized for manga-style vertical text and Japanese scripts using EasyOCR and Manga-OCR.
 
