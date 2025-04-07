@@ -47,3 +47,13 @@
 ```bash
 git clone https://github.com/FriskOCR/friskocr.git
 cd friskocr
+```
+### 2. Create a Virtual Environment
+```bash
+python -m venv friskocr
+source friskocr/bin/activate    # On Windows: venv\Scripts\activate
+```
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
