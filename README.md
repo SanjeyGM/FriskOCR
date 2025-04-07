@@ -26,17 +26,16 @@
 - 📚 **Manga/Comic OCR Mode**: Special handling for kanji-rich comic panels and light novels.
 - 🖥 **Clipboard OCR**: Detect and extract text directly from clipboard images using hotkeys.
 - 🧰 **Simple Setup**: No Docker needed, everything runs locally with Python.
-- 🖼 **GUI Interface (Optional)**: PyQt5-based interface for user-friendly interaction.
+- 🖼 **GUI Interface**: PyQt5-based interface for user-friendly interaction.
 
 ---
 
 ## ⚙️ Requirements
 
 **System**
-- Python 3.11+
-- Conda (Recommended)
+- Python 3.10
 - 8GB RAM (minimum)
-- 10GB free storage
+- 3GB free storage
 - Internet connection (for model downloads)
 
 ---
