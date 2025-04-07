@@ -58,6 +58,13 @@ Python will be automatically installed.
 | `__init__.py`        | Makes project importable as a package (for devs) |
 
 ---
-🤝 Contributing
+
+## 🤝 Contributing
+1.Fork the repository
+2.Create feature branch: git checkout -b feature/new-feature
+3.Commit changes: git commit -m 'Add new feature'
+4.Push to branch: git push origin feature/new-feature
+5.Submit a Pull Request
+
 
 
