@@ -14,9 +14,7 @@
 - [Installer](#-installer)
 - [Project Structure](#-project-structure)
 - [Usage](#-usage)
-- [Troubleshooting](#-troubleshooting)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
