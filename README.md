@@ -59,10 +59,4 @@ Python will be automatically installed.
 
 ---
 
-## 🎯 Usage (for Developers)
 
-If you're not using the `.exe` and want to run manually via Python:
-
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
