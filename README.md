@@ -61,14 +61,17 @@ Python will be automatically installed.
 
 ## 🤝 Contributing
 
-We welcome contributions! Follow these steps to get started:
+We welcome contributions! To get started:
 
-1. **Fork** the repository  
-2. **Create a feature branch**  
-   ```bash
-   git checkout -b feature/new-feature
-    ```
-3.
+1. Fork the repository  
+2. Create a feature branch:  
+   `git checkout -b feature/new-feature`  
+3. Commit your changes:  
+   `git commit -m 'Add new feature'`  
+4. Push to your branch:  
+   `git push origin feature/new-feature`  
+5. Submit a Pull Request
+
 ---
 
 
