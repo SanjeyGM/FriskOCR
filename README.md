@@ -33,7 +33,7 @@
 
 ## 📦 Installer
 
-Download the latest version of FriskOCR from the [Releases](https://github.com/yourusername/FriskOCR/releases) page.  
+Download the latest version of FriskOCR from the [Releases](https://github.com/SanjeyGM/FriskOCR/releases) page.  
 No Python or installation required.
 
 ---
