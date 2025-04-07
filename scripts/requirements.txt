@@ -1,0 +1,9 @@
+PyQt5
+Pillow
+keyboard
+pyperclip
+numpy  # For EasyOCR
+torch  # For manga-ocr dependencies
+torchvision  # For manga-ocr dependencies
+fugashi  # For manga-ocr dependencies
+unidic-lite  # For manga-ocr dependencies

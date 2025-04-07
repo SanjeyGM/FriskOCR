@@ -1,0 +1,51 @@
+2025-03-17 09:19:07,573 - INFO - Base directory: c:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool
+2025-03-17 09:19:07,573 - INFO - Virtual environment path: c:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr
+2025-03-17 09:19:07,576 - INFO - Main script path: c:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\main.py
+2025-03-17 09:19:07,580 - INFO - Set PYTHONPATH to include: c:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\pytransform
+2025-03-17 09:19:07,580 - INFO - Running command: "c:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr\Scripts\activate.bat" && set PYTHONPATH=c:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\pytransform;%PYTHONPATH% && "c:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr\Scripts\python.exe" "c:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\main.py"
+2025-03-17 09:25:58,230 - INFO - Looking for icon at: c:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\assets/icon.ico
+
+2025-03-19 09:55:08,304 - INFO - Base directory: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool
+2025-03-19 09:55:08,306 - INFO - Virtual environment path: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr
+2025-03-19 09:55:08,306 - INFO - Main script path: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\main.py
+2025-03-19 09:55:08,306 - INFO - Set PYTHONPATH to include: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\pytransform
+2025-03-19 09:55:08,306 - INFO - Running command: "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr\Scripts\activate.bat" && set PYTHONPATH=C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\pytransform;%PYTHONPATH% && "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr\Scripts\python.exe" "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\main.py"
+2025-03-19 10:07:52,296 - ERROR - Error: Error running main.py: 
+2025-03-19 10:07:52,296 - ERROR - Error running main.py: 
+2025-03-19 10:08:09,817 - INFO - Base directory: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool
+2025-03-19 10:08:09,817 - INFO - Virtual environment path: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr
+2025-03-19 10:08:09,817 - INFO - Main script path: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\main.py
+2025-03-19 10:08:09,819 - INFO - Set PYTHONPATH to include: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\pytransform
+2025-03-19 10:08:09,819 - INFO - Running command: "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr\Scripts\activate.bat" && set PYTHONPATH=C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\pytransform;%PYTHONPATH% && "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr\Scripts\python.exe" "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\main.py"
+2025-03-19 10:53:19,826 - ERROR - QDialog::exec: Recursive call detected
+
+2025-03-19 10:53:19,826 - ERROR - Error: Error running main.py: QDialog::exec: Recursive call detected
+
+2025-03-19 10:53:19,826 - ERROR - Error running main.py: QDialog::exec: Recursive call detected
+
+2025-03-19 10:53:51,354 - INFO - Base directory: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool
+2025-03-19 10:53:51,354 - INFO - Virtual environment path: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr
+2025-03-19 10:53:51,354 - INFO - Main script path: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\main.py
+2025-03-19 10:53:51,354 - INFO - Set PYTHONPATH to include: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\pytransform
+2025-03-19 10:53:51,354 - INFO - Running command: "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr\Scripts\activate.bat" && set PYTHONPATH=C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\pytransform;%PYTHONPATH% && "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr\Scripts\python.exe" "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\main.py"
+2025-03-19 10:56:58,941 - INFO - Looking for icon at: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\assets/icon.ico
+
+2025-03-19 10:57:57,535 - INFO - Base directory: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool
+2025-03-19 10:57:57,535 - INFO - Virtual environment path: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr
+2025-03-19 10:57:57,535 - INFO - Main script path: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\main.py
+2025-03-19 10:57:57,535 - INFO - Set PYTHONPATH to include: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\pytransform
+2025-03-19 10:57:57,535 - INFO - Running command: "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr\Scripts\activate.bat" && set PYTHONPATH=C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\pytransform;%PYTHONPATH% && "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr\Scripts\python.exe" "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\main.py"
+2025-03-19 11:21:57,195 - INFO - Looking for icon at: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\assets/icon.ico
+
+2025-03-29 21:32:30,584 - INFO - Base directory: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool
+2025-03-29 21:32:30,584 - INFO - Virtual environment path: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr
+2025-03-29 21:32:30,584 - INFO - Main script path: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\main.py
+2025-03-29 21:32:30,585 - INFO - Set PYTHONPATH to include: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\pytransform
+2025-03-29 21:32:30,585 - INFO - Running command: "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr\Scripts\activate.bat" && set PYTHONPATH=C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\pytransform;%PYTHONPATH% && "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\friskocr\Scripts\python.exe" "C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\main.py"
+2025-03-29 21:48:47,325 - INFO - Looking for icon at: C:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\assets/icon.ico
+
+2025-03-29 21:48:47,327 - ERROR -   OpenType support missing for "MS Shell Dlg 2", script 32
+  OpenType support missing for "Arial", script 32
+  OpenType support missing for "MS UI Gothic", script 32
+  OpenType support missing for "SimSun", script 32
+

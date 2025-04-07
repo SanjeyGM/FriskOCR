@@ -1,0 +1,19 @@
+2025-02-13 18:16:15,326 - INFO - PyInstaller version: 6.11.1
+2025-02-13 18:16:15,346 - INFO - Cleaned build directory
+2025-02-13 18:16:15,352 - INFO - Cleaned dist directory
+2025-02-13 18:16:15,355 - INFO - Console icon set successfully
+2025-02-13 18:16:15,357 - INFO - Manifest file created at launcher.manifest
+2025-02-13 18:16:15,357 - INFO - Running PyInstaller with command: pyinstaller --onefile --windowed --name=FriskOCR --icon=c:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\assets\icon.ico --manifest=launcher.manifest --uac-admin --add-data assets;assets --clean c:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\launcher.py --version-file=version.txt --noconfirm --log-level=INFO
+2025-02-13 18:16:32,028 - ERROR - PyInstaller failed: Command '['pyinstaller', '--onefile', '--windowed', '--name=FriskOCR', '--icon=c:\\Users\\SanjeyGM\\Desktop\\trying_build_app_1\\ocr_tool\\assets\\icon.ico', '--manifest=launcher.manifest', '--uac-admin', '--add-data', 'assets;assets', '--clean', 'c:\\Users\\SanjeyGM\\Desktop\\trying_build_app_1\\ocr_tool\\launcher.py', '--version-file=version.txt', '--noconfirm', '--log-level=INFO']' returned non-zero exit status 1.
+2025-02-13 18:16:32,031 - INFO - Cleaned up manifest file
+2025-02-13 18:18:05,253 - INFO - PyInstaller version: 6.11.1
+2025-02-13 18:18:05,261 - INFO - Cleaned build directory
+2025-02-13 18:18:05,264 - INFO - Cleaned dist directory
+2025-02-13 18:18:05,269 - INFO - Version file created at file_version_info.txt
+2025-02-13 18:18:05,270 - INFO - Manifest file created at launcher.manifest
+2025-02-13 18:18:05,271 - INFO - Running PyInstaller with command: pyinstaller --onefile --windowed --name=FriskOCR --icon=c:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\assets\icon.ico --manifest=launcher.manifest --uac-admin --clean --version-file=file_version_info.txt --noconfirm --log-level=INFO c:\Users\SanjeyGM\Desktop\trying_build_app_1\ocr_tool\launcher.py
+2025-02-13 18:18:34,533 - INFO - Executable created successfully in 'dist' directory
+2025-02-13 18:18:34,545 - INFO - Cleaned build directory
+2025-02-13 18:18:34,549 - INFO - Cleaned dist directory
+2025-02-13 18:18:34,551 - INFO - Cleaned launcher.manifest
+2025-02-13 18:18:34,552 - INFO - Cleaned file_version_info.txt
