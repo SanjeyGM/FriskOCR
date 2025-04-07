@@ -45,5 +45,5 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourrepo/friskocr.git
+git clone https://github.com/FriskOCR/friskocr.git
 cd friskocr
